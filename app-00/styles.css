@@ -1,0 +1,48 @@
+.main-header {
+    color: white;
+    background: black;
+    text-align: center;
+    padding: 10px;
+}
+
+.main-footer {
+    color:white;
+    background: black;
+    text-align: center;
+    padding: 15px;
+}
+
+.main-article {
+    color: brown;
+    background: bisque;
+    text-align: center;
+    padding: 5px;
+}
+
+.second-article {
+    color: brown;
+    background: bisque;
+    text-align: center;
+    padding: 5px;
+}
+
+.third-article {
+    color: #a52a2a;
+    background: bisque;
+    text-align: center;
+    padding: 5px;
+}
+
+.main-nav {
+    color: #a52a2a;
+    background: rgb(182, 172, 159);
+    text-align: left;
+    padding: 5px;
+}
+
+.main-aside {
+    color: #a52a2a;
+    background: rgb(182, 172, 159);
+    text-align: left;
+    padding: 5px;
+}
